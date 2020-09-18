@@ -90,29 +90,61 @@ namespace Qlks
 
         private void bt_sua_Click(object sender, EventArgs e)
         {
-            
-        }
+               if (!string.IsNullOrEmpty(txt_ten.Text))
+               {
+                    if (!string.IsNullOrEmpty(txt_taikhoan.Text))
+                    {
+                         if (rd_nam.Checked)
+                         {
+                              dt.Clear();
+                              dt = cl.suanv(txt_ten.Text, rd_nam.Text, txt_diachi.Text, txt_ngaysinh.Text, Convert.ToInt32(txt_sdt.Text), txt_taikhoan.Text, txt_matkhau.Text);
+                              if (dt.Rows[0]["errcode"].ToString() == "1")
+                              {
+                                   MessageBox.Show("Sai Tài Khoản", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                                   txt_taikhoan.Focus();
+                              }
+                              else
+                              {
+                                   MessageBox.Show("Sửa Thành Công", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                                   dt.Clear();
+                                   loaddulieu();
+
+                              }
+                         }
+                         else
+                         {
+                              dt.Clear();
+                              dt = cl.suanv(txt_ten.Text, rd_nu.Text, txt_diachi.Text, txt_ngaysinh.Text, Convert.ToInt32(txt_sdt.Text), txt_taikhoan.Text, txt_matkhau.Text);
+                              if (dt.Rows[0]["errcode"].ToString() == "0")
+                              {
+                                   MessageBox.Show("Sửa Thành Công", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                                   dt.Clear();
+                                   loaddulieu();
+                              }
+                              else
+                              {
+                                   MessageBox.Show("Sai Tài Khoản", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                                   txt_taikhoan.Focus();
+                              }
+                         }
+                    }
+                    else
+                    {
+                         MessageBox.Show("Nhập Tài Khoản", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                         txt_taikhoan.Focus();
+                    }
+               }
+
+               else
+               {
+                    MessageBox.Show("Nhập Tên", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    txt_ten.Focus();
+               }
+          }
 
         private void dg_Click(object sender, EventArgs e)
         {
-            string gt = null;
-            int manv = Convert.ToInt32(dg.CurrentRow.Cells["Manv"].Value.ToString());
-            dr = cl.hiennhanvien(manv);
-            while (dr.Read())
-            {
-                txt_ten.Text = dr.GetString(1);
-                gt = dr.GetString(2).ToString();
-                if (gt == "Nam")
-                    rd_nam.Checked = true;
-                else
-                    rd_nu.Checked = true;
-                txt_diachi.Text = dr.GetString(3);
-                
-                txt_ngaysinh.Text = dr.GetString(4);
-                txt_sdt.Text = dr.GetInt32(5).ToString();
-                txt_taikhoan.Text = dr.GetString(6);
-                txt_matkhau.Text = dr.GetString(7);
-            }
+           
 
         }
 
