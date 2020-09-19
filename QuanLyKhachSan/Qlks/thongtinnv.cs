@@ -144,19 +144,30 @@ namespace Qlks
 
         private void dg_Click(object sender, EventArgs e)
         {
-           
+               string gt = null;
+               int manv = Convert.ToInt32(dg.CurrentRow.Cells["Manv"].Value.ToString());
+               dr = cl.hiennhanvien(manv);
+               while (dr.Read())
+               {
+                    txt_ten.Text = dr.GetString(1);
+                    gt = dr.GetString(2).ToString();
+                    if (gt == "Nam")
+                         rd_nam.Checked = true;
+                    else
+                         rd_nu.Checked = true;
+                    txt_diachi.Text = dr.GetString(3);
 
-        }
+                    txt_ngaysinh.Text = dr.GetString(4);
+                    txt_sdt.Text = dr.GetInt32(5).ToString();
+                    txt_taikhoan.Text = dr.GetString(6);
+                    txt_matkhau.Text = dr.GetString(7);
+               }
+
+          }
 
         private void bt_xoa_Click(object sender, EventArgs e)
         {
-            if (MessageBox.Show("Bạn có muốn xóa nhân viên này?", "Chú Ý", MessageBoxButtons.OKCancel, MessageBoxIcon.Warning) == DialogResult.OK)
-            {
-                dt = cl.xoanhanvien(Convert.ToInt32(dg.CurrentRow.Cells["Manv"].Value.ToString()));
-
-                dt.Clear();
-                loaddulieu();
-            }
+           
         }
 
         private void txt_sdt_KeyPress(object sender, KeyPressEventArgs e)
