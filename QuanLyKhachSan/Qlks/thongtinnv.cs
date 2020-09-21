@@ -167,8 +167,14 @@ namespace Qlks
 
         private void bt_xoa_Click(object sender, EventArgs e)
         {
-           
-        }
+               if (MessageBox.Show("Bạn có muốn xóa nhân viên này?", "Chú Ý", MessageBoxButtons.OKCancel, MessageBoxIcon.Warning) == DialogResult.OK)
+               {
+                    dt = cl.xoanhanvien(Convert.ToInt32(dg.CurrentRow.Cells["Manv"].Value.ToString()));
+
+                    dt.Clear();
+                    loaddulieu();
+               }
+          }
 
         private void txt_sdt_KeyPress(object sender, KeyPressEventArgs e)
         {
