@@ -1,0 +1,131 @@
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\bin\Debug\Qlks.exe.config
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\bin\Debug\Qlks.exe
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\bin\Debug\Qlks.pdb
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.capnhat.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.DangNhap.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.phong.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.qlks.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.Properties.Resources.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.suaphong.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.thongtinnv.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.tinhtien.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.csproj.GenerateResource.Cache
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.exe
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.pdb
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.csprojResolveAssemblyReference.cache
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.doimatkhau.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.timkh.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.danhsachphong.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.doanhthu.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.HuongDan.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.Thongtin.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.inhoadon.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\RdlCompile.cache
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\RdlCompile.compiled
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.Txphong.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.datphong.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.dichvu.resources
+C:\Users\hieu huyen\Desktop\Qlks\Qlks\bin\Debug\Qlks.exe.config
+C:\Users\hieu huyen\Desktop\Qlks\Qlks\obj\Debug\Qlks.exe
+C:\Users\hieu huyen\Desktop\Qlks\Qlks\obj\Debug\Qlks.pdb
+C:\Users\hieu huyen\Desktop\Qlks\Qlks\bin\Debug\Qlks.exe
+C:\Users\hieu huyen\Desktop\Qlks\Qlks\bin\Debug\Qlks.pdb
+C:\Users\hieu huyen\Desktop\Qlks\Qlks\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hieu huyen\Desktop\Qlks\Qlks\obj\Debug\Qlks.csprojResolveAssemblyReference.cache
+C:\Users\hieu huyen\Desktop\Qlks\Qlks\obj\Debug\Qlks.capnhat.resources
+C:\Users\hieu huyen\Desktop\Qlks\Qlks\obj\Debug\Qlks.DangNhap.resources
+C:\Users\hieu huyen\Desktop\Qlks\Qlks\obj\Debug\Qlks.danhsachphong.resources
+C:\Users\hieu huyen\Desktop\Qlks\Qlks\obj\Debug\Qlks.datphong.resources
+C:\Users\hieu huyen\Desktop\Qlks\Qlks\obj\Debug\Qlks.dichvu.resources
+C:\Users\hieu huyen\Desktop\Qlks\Qlks\obj\Debug\Qlks.doanhthu.resources
+C:\Users\hieu huyen\Desktop\Qlks\Qlks\obj\Debug\Qlks.doimatkhau.resources
+C:\Users\hieu huyen\Desktop\Qlks\Qlks\obj\Debug\Qlks.HuongDan.resources
+C:\Users\hieu huyen\Desktop\Qlks\Qlks\obj\Debug\Qlks.inhoadon.resources
+C:\Users\hieu huyen\Desktop\Qlks\Qlks\obj\Debug\Qlks.phong.resources
+C:\Users\hieu huyen\Desktop\Qlks\Qlks\obj\Debug\Qlks.qlks.resources
+C:\Users\hieu huyen\Desktop\Qlks\Qlks\obj\Debug\Qlks.Properties.Resources.resources
+C:\Users\hieu huyen\Desktop\Qlks\Qlks\obj\Debug\Qlks.suaphong.resources
+C:\Users\hieu huyen\Desktop\Qlks\Qlks\obj\Debug\Qlks.Thongtin.resources
+C:\Users\hieu huyen\Desktop\Qlks\Qlks\obj\Debug\Qlks.thongtinnv.resources
+C:\Users\hieu huyen\Desktop\Qlks\Qlks\obj\Debug\Qlks.timkh.resources
+C:\Users\hieu huyen\Desktop\Qlks\Qlks\obj\Debug\Qlks.tinhtien.resources
+C:\Users\hieu huyen\Desktop\Qlks\Qlks\obj\Debug\Qlks.Txphong.resources
+C:\Users\hieu huyen\Desktop\Qlks\Qlks\obj\Debug\Qlks.csproj.GenerateResource.Cache
+D:\Thuc tap nhom\Qlks\Qlks\obj\Debug\Qlks.csprojAssemblyReference.cache
+D:\Thuc tap nhom\Qlks\Qlks\obj\Debug\Qlks.capnhat.resources
+D:\Thuc tap nhom\Qlks\Qlks\obj\Debug\Qlks.DangNhap.resources
+D:\Thuc tap nhom\Qlks\Qlks\obj\Debug\Qlks.danhsachphong.resources
+D:\Thuc tap nhom\Qlks\Qlks\obj\Debug\Qlks.datphong.resources
+D:\Thuc tap nhom\Qlks\Qlks\obj\Debug\Qlks.dichvu.resources
+D:\Thuc tap nhom\Qlks\Qlks\obj\Debug\Qlks.doanhthu.resources
+D:\Thuc tap nhom\Qlks\Qlks\obj\Debug\Qlks.doimatkhau.resources
+D:\Thuc tap nhom\Qlks\Qlks\obj\Debug\Qlks.HuongDan.resources
+D:\Thuc tap nhom\Qlks\Qlks\obj\Debug\Qlks.inhoadon.resources
+D:\Thuc tap nhom\Qlks\Qlks\obj\Debug\Qlks.phong.resources
+D:\Thuc tap nhom\Qlks\Qlks\obj\Debug\Qlks.qlks.resources
+D:\Thuc tap nhom\Qlks\Qlks\obj\Debug\Qlks.Properties.Resources.resources
+D:\Thuc tap nhom\Qlks\Qlks\obj\Debug\Qlks.suaphong.resources
+D:\Thuc tap nhom\Qlks\Qlks\obj\Debug\Qlks.Thongtin.resources
+D:\Thuc tap nhom\Qlks\Qlks\obj\Debug\Qlks.thongtinnv.resources
+D:\Thuc tap nhom\Qlks\Qlks\obj\Debug\Qlks.timkh.resources
+D:\Thuc tap nhom\Qlks\Qlks\obj\Debug\Qlks.tinhtien.resources
+D:\Thuc tap nhom\Qlks\Qlks\obj\Debug\Qlks.Txphong.resources
+D:\Thuc tap nhom\Qlks\Qlks\obj\Debug\Qlks.csproj.GenerateResource.cache
+D:\Thuc tap nhom\Qlks\Qlks\obj\Debug\Qlks.csproj.CoreCompileInputs.cache
+D:\Thuc tap nhom\Qlks\Qlks\obj\Debug\Qlks.exe
+D:\Thuc tap nhom\Qlks\Qlks\obj\Debug\Qlks.pdb
+D:\Thuc tap nhom\Qlks\Qlks\bin\Debug\Qlks.exe.config
+D:\Thuc tap nhom\Qlks\Qlks\bin\Debug\Qlks.exe
+D:\Thuc tap nhom\Qlks\Qlks\bin\Debug\Qlks.pdb
+D:\Thuc tap nhom\Qlks - Copy\Qlks\bin\Debug\Qlks.exe.config
+D:\Thuc tap nhom\Qlks - Copy\Qlks\bin\Debug\Qlks.exe
+D:\Thuc tap nhom\Qlks - Copy\Qlks\bin\Debug\Qlks.pdb
+D:\Thuc tap nhom\Qlks - Copy\Qlks\obj\Debug\Qlks.csprojAssemblyReference.cache
+D:\Thuc tap nhom\Qlks - Copy\Qlks\obj\Debug\Qlks.capnhat.resources
+D:\Thuc tap nhom\Qlks - Copy\Qlks\obj\Debug\Qlks.DangNhap.resources
+D:\Thuc tap nhom\Qlks - Copy\Qlks\obj\Debug\Qlks.danhsachphong.resources
+D:\Thuc tap nhom\Qlks - Copy\Qlks\obj\Debug\Qlks.datphong.resources
+D:\Thuc tap nhom\Qlks - Copy\Qlks\obj\Debug\Qlks.dichvu.resources
+D:\Thuc tap nhom\Qlks - Copy\Qlks\obj\Debug\Qlks.doanhthu.resources
+D:\Thuc tap nhom\Qlks - Copy\Qlks\obj\Debug\Qlks.doimatkhau.resources
+D:\Thuc tap nhom\Qlks - Copy\Qlks\obj\Debug\Qlks.HuongDan.resources
+D:\Thuc tap nhom\Qlks - Copy\Qlks\obj\Debug\Qlks.inhoadon.resources
+D:\Thuc tap nhom\Qlks - Copy\Qlks\obj\Debug\Qlks.phong.resources
+D:\Thuc tap nhom\Qlks - Copy\Qlks\obj\Debug\Qlks.qlks.resources
+D:\Thuc tap nhom\Qlks - Copy\Qlks\obj\Debug\Qlks.Properties.Resources.resources
+D:\Thuc tap nhom\Qlks - Copy\Qlks\obj\Debug\Qlks.suaphong.resources
+D:\Thuc tap nhom\Qlks - Copy\Qlks\obj\Debug\Qlks.Thongtin.resources
+D:\Thuc tap nhom\Qlks - Copy\Qlks\obj\Debug\Qlks.thongtinnv.resources
+D:\Thuc tap nhom\Qlks - Copy\Qlks\obj\Debug\Qlks.timkh.resources
+D:\Thuc tap nhom\Qlks - Copy\Qlks\obj\Debug\Qlks.tinhtien.resources
+D:\Thuc tap nhom\Qlks - Copy\Qlks\obj\Debug\Qlks.Txphong.resources
+D:\Thuc tap nhom\Qlks - Copy\Qlks\obj\Debug\Qlks.csproj.GenerateResource.cache
+D:\Thuc tap nhom\Qlks - Copy\Qlks\obj\Debug\Qlks.csproj.CoreCompileInputs.cache
+D:\Thuc tap nhom\Qlks - Copy\Qlks\obj\Debug\Qlks.exe
+D:\Thuc tap nhom\Qlks - Copy\Qlks\obj\Debug\Qlks.pdb
+C:\Users\HP\Desktop\QLKS\Qlks\bin\Debug\Qlks.exe.config
+C:\Users\HP\Desktop\QLKS\Qlks\bin\Debug\Qlks.exe
+C:\Users\HP\Desktop\QLKS\Qlks\bin\Debug\Qlks.pdb
+C:\Users\HP\Desktop\QLKS\Qlks\obj\Debug\Qlks.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\QLKS\Qlks\obj\Debug\Qlks.capnhat.resources
+C:\Users\HP\Desktop\QLKS\Qlks\obj\Debug\Qlks.DangNhap.resources
+C:\Users\HP\Desktop\QLKS\Qlks\obj\Debug\Qlks.danhsachphong.resources
+C:\Users\HP\Desktop\QLKS\Qlks\obj\Debug\Qlks.datphong.resources
+C:\Users\HP\Desktop\QLKS\Qlks\obj\Debug\Qlks.dichvu.resources
+C:\Users\HP\Desktop\QLKS\Qlks\obj\Debug\Qlks.doanhthu.resources
+C:\Users\HP\Desktop\QLKS\Qlks\obj\Debug\Qlks.doimatkhau.resources
+C:\Users\HP\Desktop\QLKS\Qlks\obj\Debug\Qlks.HuongDan.resources
+C:\Users\HP\Desktop\QLKS\Qlks\obj\Debug\Qlks.inhoadon.resources
+C:\Users\HP\Desktop\QLKS\Qlks\obj\Debug\Qlks.phong.resources
+C:\Users\HP\Desktop\QLKS\Qlks\obj\Debug\Qlks.qlks.resources
+C:\Users\HP\Desktop\QLKS\Qlks\obj\Debug\Qlks.Properties.Resources.resources
+C:\Users\HP\Desktop\QLKS\Qlks\obj\Debug\Qlks.suaphong.resources
+C:\Users\HP\Desktop\QLKS\Qlks\obj\Debug\Qlks.Thongtin.resources
+C:\Users\HP\Desktop\QLKS\Qlks\obj\Debug\Qlks.thongtinnv.resources
+C:\Users\HP\Desktop\QLKS\Qlks\obj\Debug\Qlks.timkh.resources
+C:\Users\HP\Desktop\QLKS\Qlks\obj\Debug\Qlks.tinhtien.resources
+C:\Users\HP\Desktop\QLKS\Qlks\obj\Debug\Qlks.Txphong.resources
+C:\Users\HP\Desktop\QLKS\Qlks\obj\Debug\Qlks.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\QLKS\Qlks\obj\Debug\Qlks.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\QLKS\Qlks\obj\Debug\Qlks.exe
+C:\Users\HP\Desktop\QLKS\Qlks\obj\Debug\Qlks.pdb
