@@ -54,7 +54,46 @@ namespace Qlks
         {
             load();
         }
+     private void dg_Click(object sender, EventArgs e)
+        {
+            bt_ct.Enabled = true;
+            try
+            {
+                mp = Convert.ToInt32(dg.CurrentRow.Cells["Maphong"].Value);
+            }
+            catch (Exception)
+            {
+                
+               
+            }
+            
+        }
 
+        private void bt_ct_Click(object sender, EventArgs e)
+        {
+            if (scm == "")
+            {
+                datphong.mp = mp;
+                datphong dp = new datphong();
+                dp.Show();
+            }
+            else
+            {
+                phong.maphong = mp;
+                phong p = new phong();
+                p.Show();
+            }
+        }
+
+        private void dg_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            scm = Convert.ToString(dg.CurrentRow.Cells["Socm"].Value);
+        }
+
+        private void dg_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
 
    
     }
