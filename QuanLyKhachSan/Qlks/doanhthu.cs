@@ -20,6 +20,7 @@ namespace Qlks
         CauLenh cl = new CauLenh();
         DataTable dt = new DataTable();
         private double tt = 0;
+        private double total;
         private void load()
         {
             txt_mp.Enabled = false;
@@ -35,6 +36,13 @@ namespace Qlks
             }
             lb_dt.Text = tt.ToString();
 
+        }
+        void hienthi()
+        {
+            for (int i = 0; i < dg.RowCount; i++)
+            {
+                total += Convert.ToDouble(dg.Rows[i].Cells["Tienphong"].Value);
+            }
         }
         private void doanhthu_Load(object sender, EventArgs e)
         {
@@ -52,7 +60,7 @@ namespace Qlks
             txt_t.Text = "1/ or 12";
             txt_mp.Focus();
         }
-
+        
         private void rd_ngay_Click(object sender, EventArgs e)
         {
             txt_n1.Enabled = true;
