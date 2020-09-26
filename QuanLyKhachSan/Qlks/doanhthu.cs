@@ -68,7 +68,7 @@ namespace Qlks
             txt_mp.Enabled = false;            
             txt_t.Enabled = false;
             txt_mp.Text = "";
-            txt_t.Text = "1/ or 12";
+            txt_t.Text = "1 to 12";
             txt_n1.Text = "/";
             txt_n2.Text = "/";
             txt_n1.Focus();
