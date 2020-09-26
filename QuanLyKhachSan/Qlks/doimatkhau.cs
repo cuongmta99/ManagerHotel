@@ -46,7 +46,7 @@ namespace Qlks
                             dt = cl.doimatkhau(lb_tk.Text, txt_mkc.Text, txt_mkm.Text);
                             if (dt.Rows[0]["errcode"].ToString() == "0")
                             {
-                                MessageBox.Show("Đã Lưu", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                                MessageBox.Show("Lưu thành công", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                                 this.Close();
                                
                             }
@@ -59,7 +59,7 @@ namespace Qlks
                         }
                         else
                         {
-                            MessageBox.Show("Mật khẩu nhập lại không chính xác", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                            MessageBox.Show("Mật khẩu nhập lại không chính xác.Nhập lại", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                         }
                     }
                     else
