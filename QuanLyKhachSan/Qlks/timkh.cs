@@ -90,10 +90,10 @@ namespace Qlks
             scm = Convert.ToString(dg.CurrentRow.Cells["Socm"].Value);
         }
 
-        private void dg_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
+//        private void dg_CellContentClick(object sender, DataGridViewCellEventArgs e)
+//        {
 
-        }
+//        }
 
    
     }
