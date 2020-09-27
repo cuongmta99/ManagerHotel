@@ -192,17 +192,17 @@
             // 
             // bt_ct
             // 
-            this.bt_ct.BackColor = System.Drawing.Color.DarkCyan;
-            this.bt_ct.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bt_ct.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.bt_ct.Location = new System.Drawing.Point(904, 66);
-            this.bt_ct.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.bt_ct.Name = "bt_ct";
-            this.bt_ct.Size = new System.Drawing.Size(100, 39);
-            this.bt_ct.TabIndex = 0;
-            this.bt_ct.Text = "Chi Tiết";
-            this.bt_ct.UseVisualStyleBackColor = false;
-            this.bt_ct.Click += new System.EventHandler(this.bt_ct_Click);
+//            this.bt_ct.BackColor = System.Drawing.Color.DarkCyan;
+//            this.bt_ct.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+//            this.bt_ct.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+//            this.bt_ct.Location = new System.Drawing.Point(904, 66);
+//            this.bt_ct.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+//            this.bt_ct.Name = "bt_ct";
+//            this.bt_ct.Size = new System.Drawing.Size(100, 39);
+//            this.bt_ct.TabIndex = 0;
+//            this.bt_ct.Text = "Chi Tiết";
+//            this.bt_ct.UseVisualStyleBackColor = false;
+//            this.bt_ct.Click += new System.EventHandler(this.bt_ct_Click);
             // 
             // timkh
             // 
