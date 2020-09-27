@@ -37,7 +37,7 @@ namespace Qlks
                 }
                 
             }
-            else MessageBox.Show("Nhập !!!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            else MessageBox.Show("Nhập thông tin !!!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
         }
 
         private void bt_xoa_Click(object sender, EventArgs e)
