@@ -92,7 +92,7 @@ namespace Qlks
                 load();
             }
         }
-
+        //bttom luu
         private void bt_luu_Click(object sender, EventArgs e)
         {
             if (!string.IsNullOrEmpty(txt_ten.Text))
