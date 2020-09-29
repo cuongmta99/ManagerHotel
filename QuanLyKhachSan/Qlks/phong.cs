@@ -71,6 +71,10 @@ namespace Qlks
                 lp_gp.Text = dr.GetInt32(0).ToString();
             }
         }
+        public void showdig()
+        {
+            load();
+        }
         private void phong_Load(object sender, EventArgs e)
         {
             load();            
