@@ -65,6 +65,19 @@ namespace Qlks
             }
             return false;
         }
+
+        private bool vxm(int ma)
+        {
+            dr = cl.txphong(ma);
+            while (dr.Read())
+            {
+                string tt = dr.GetString(1);
+
+                if (tt == "Hiện")
+                    return true;
+            }
+            return false;
+        }
         public void load_tinhtrangphong()
         {
             bt_101.Image = Image.FromFile(tinhtrang(101));
